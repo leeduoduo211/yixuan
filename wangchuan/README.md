@@ -9,13 +9,15 @@
 ## 目录结构
 
 - [`about.md`](about.md)：作者简介、发表平台与影响
-- [`articles/index.md`](articles/index.md)：已知文章索引（按主题分类）
+- [`articles/index.md`](articles/index.md)：第一批已知文章索引（按主题分类）
+- [`articles/index-part-2.md`](articles/index-part-2.md)：第二批补充索引（chuan.us 编号对照表 + 2017–2025 文章清单）
 - [`articles/investment-laws.md`](articles/investment-laws.md)：王川投资四大法则
 - [`articles/mental-models.md`](articles/mental-models.md)：思维模型与认知方法
 - [`articles/reading-and-growth.md`](articles/reading-and-growth.md)：读书、成长与幸福观
 - [`articles/deep-learning-series.md`](articles/deep-learning-series.md)：《深度学习有多深？》系列
 - [`articles/blockchain-bitcoin.md`](articles/blockchain-bitcoin.md)：区块链与比特币文章
 - [`articles/tech-and-companies.md`](articles/tech-and-companies.md)：科技与公司分析
+- [`articles/summaries-part-2.md`](articles/summaries-part-2.md)：第二批新增文章主旨摘要（25 篇）
 - [`quotes.md`](quotes.md)：经典语录汇总
 - [`sources.md`](sources.md)：原始来源与平台链接
 

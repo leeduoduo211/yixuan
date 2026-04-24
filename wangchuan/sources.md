@@ -14,7 +14,45 @@
 | YouTube | <https://www.youtube.com/@chuan_wang6332> |
 | 知乎专栏 | <https://www.zhihu.com/people/gui-gu-wang-chuan/posts> |
 
-## 二、文章原发或转载页面（本文件各处引用）
+## 二、chuan.us 文章编号直达（第二批新增）
+
+- chuan.us/143 — 为什么你买了腾讯亚马逊特斯拉比特币，还是很难发大财
+- chuan.us/169 — 宁要高维度抽象化的草，不要低维度具象化的苗
+- chuan.us/192 — 论决策机制和纠错成本
+- chuan.us/211 — Uber 上市会引爆硅谷的泡沫破灭吗？
+- chuan.us/249 — 美好未来，注定并不连续（上）
+- chuan.us/251 — 为什么特斯拉是做空者的最爱？
+- chuan.us/258 — 与不可预测的未来分一杯羹（一）
+- chuan.us/261 — 投资第三法则：增速为王
+- chuan.us/302 — 论特斯拉可能破产的二十个原因
+- chuan.us/305 — 2018，汽车工业的我靠时刻（二）
+- chuan.us/319 — 开局的结尾 – 纪念特斯拉私有化
+- chuan.us/350 — 论"非常挑剔"和"非常自由"
+- chuan.us/354 — 从交易的"干柴烈火度"看扩展性和正反馈循环
+- chuan.us/360 — 论"扩展性"（一）
+- chuan.us/362 — 论"目标导向"和"过程导向"
+- chuan.us/366 — 无处不在的不对称性 – 反脆弱的随想（三）
+- chuan.us/378 — 比数字目标更重要的是扩展性和正反馈循环
+- chuan.us/431 — 构建个人信息基础设施
+- chuan.us/453 — 范式转移的随想（二）
+- chuan.us/455 — 反脆弱的随想（一）
+- chuan.us/457 — 范式转移的随想（一）
+- chuan.us/515 — 摩尔定律还能走多远？（三）CPU 的内存瓶颈
+- chuan.us/523 — 三十二个有用的思维模型
+- chuan.us/690 — 幸福来自效率的全面复合增长
+- chuan.us/775 — 从长期国债的悖论到胆固醇的悖论（上）
+- chuan.us/788 — 从长期国债的悖论到胆固醇的悖论（中）
+- chuan.us/791 — 论做题家和出题家（一）
+- chuan.us/800 — 论兴趣和世界第九大奇迹（一）
+- chuan.us/839 — 论熊市投资者的自我修养
+- chuan.us/868 — 从权力和垄断的演化机制，看投资（一）
+- chuan.us/886 — 关于 chatGPT 的随想（一）
+- chuan.us/903 — 为什么人们守不住四年三倍的资产？
+- chuan.us/919 — 长期主义的实践为什么这么难
+- chuan.us/929 — 从思科的财务报告历史，来看英伟达的估值
+- chuan.us/941 — 只有生存狂才无需偏执
+
+## 三、文章原发或转载页面（本文件各处引用）
 
 - 新浪博客《关于公众号 investguru 历史文章的目录》：<https://blog.sina.com.cn/s/blog_13e3cf07c0102xlxv.html>
 - 新浪博客文章列表：<https://blog.sina.com.cn/s/articlelist_5339148412_0_1.html>
